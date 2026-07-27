@@ -107,7 +107,7 @@ const ABOUT_POINTS = [
     body: "Certified strength, mobility and rehab specialists on the floor all day.",
   },
   {
-    Icon: HeartHub,
+    Icon: Heart,
     title: "Personalised training",
     body: "Programs written around your assessment, schedule and long-term goals.",
   },
