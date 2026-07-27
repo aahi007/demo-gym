@@ -13,7 +13,7 @@ export const NAV_LINKS = [
 ];
 
 export const WHATSAPP_URL =
-  "https://wa.me/8160629976?text=Hi%20Iron%20Pulse%20Fitness%2C%20I%27d%20like%20to%20book%20a%20free%20trial.";
+  "https://wa.me/8160629976?text=Hi%20Iron%20Hub%20Fitness%2C%20I%27d%20like%20to%20book%20a%20free%20trial.";
 
 export function ScrollProgress() {
   const [progress, setProgress] = useState(0);
@@ -69,7 +69,7 @@ export function Navbar() {
             <Dumbbell className="h-5 w-5 text-primary-foreground" aria-hidden="true" />
           </span>
           <span className="font-display truncate text-2xl tracking-wide">
-            Iron<span className="text-primary">Pulse</span>
+            Power<span className="text-primary">Hub</span>
           </span>
         </a>
 
@@ -150,7 +150,7 @@ export function Footer() {
               <Dumbbell className="h-5 w-5 text-primary-foreground" aria-hidden="true" />
             </span>
             <span className="font-display text-2xl tracking-wide">
-              Iron<span className="text-primary">Pulse</span>
+              power<span className="text-primary">Hub</span>
             </span>
           </div>
           <p className="mt-4 max-w-sm text-sm leading-relaxed text-muted-foreground">
@@ -191,7 +191,7 @@ export function Footer() {
         <div>
           <h3 className="font-display text-xl tracking-wider">Visit Us</h3>
           <address className="mt-4 space-y-2 text-sm not-italic text-muted-foreground">
-            <p>102, Race Course Road, Vadodara, Gujarat 390007</p>
+            <p> Krishna gold complex maneja, Vadodara, Gujarat 390007</p>
             <p>
               <a href="tel:+918160629976" className="hover:text-primary">
                 +91 8160629976

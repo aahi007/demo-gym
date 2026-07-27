@@ -270,7 +270,7 @@ export function Contact() {
             <li className="flex gap-4">
               <MapPin className="h-5 w-5 shrink-0 text-primary" aria-hidden="true" />
               <address className="text-sm not-italic text-muted-foreground">
-                102, Race Course Road,
+                Krishna gold complex maneja,
                 <br />
                 Vadodara, Gujarat 390007
               </address>

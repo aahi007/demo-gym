@@ -1,4 +1,4 @@
-import { Star, Users, Award, Dumbbell, HeartPulse, Salad, Check } from "lucide-react";
+import { Star, Users, Award, Dumbbell, HeartHub, Salad, Check } from "lucide-react";
 import { Reveal, Counter, SectionHeading, Section } from "./primitives";
 import { WHATSAPP_URL } from "./chrome";
 import heroImg from "@/assets/hero.jpg";
@@ -107,7 +107,7 @@ const ABOUT_POINTS = [
     body: "Certified strength, mobility and rehab specialists on the floor all day.",
   },
   {
-    Icon: HeartPulse,
+    Icon: HeartHub,
     title: "Personalised training",
     body: "Programs written around your assessment, schedule and long-term goals.",
   },

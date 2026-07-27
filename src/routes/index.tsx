@@ -28,7 +28,7 @@ const JSON_LD = {
   email: "hello@PowerHub.com",
   address: {
     "@type": "PostalAddress",
-    streetAddress: "102, Race Course Road",
+    streetAddress: " Krishna gold complex maneja",
     addressLocality: "Vadodara",
     addressRegion: "Gujarat",
     postalCode: "390007",
