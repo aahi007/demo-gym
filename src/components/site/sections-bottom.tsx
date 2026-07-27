@@ -277,8 +277,8 @@ export function Contact() {
             </li>
             <li className="flex gap-4">
               <Phone className="h-5 w-5 shrink-0 text-primary" aria-hidden="true" />
-              <a href="tel:+919876543210" className="text-sm text-muted-foreground hover:text-foreground">
-                +91 98765 43210
+              <a href="tel:+918160629976" className="text-sm text-muted-foreground hover:text-foreground">
+                +91 8160629976
               </a>
             </li>
             <li className="flex gap-4">

@@ -24,7 +24,7 @@ const JSON_LD = {
   name: "Iron Pulse Fitness",
   slogan: "Train Hard. Live Strong.",
   description: DESCRIPTION,
-  telephone: "+91 98765 43210",
+  telephone: "+91 8160629976",
   email: "hello@ironpulsefitness.com",
   address: {
     "@type": "PostalAddress",

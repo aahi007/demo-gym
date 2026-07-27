@@ -13,7 +13,7 @@ export const NAV_LINKS = [
 ];
 
 export const WHATSAPP_URL =
-  "https://wa.me/919876543210?text=Hi%20Iron%20Pulse%20Fitness%2C%20I%27d%20like%20to%20book%20a%20free%20trial.";
+  "https://wa.me/8160629976?text=Hi%20Iron%20Pulse%20Fitness%2C%20I%27d%20like%20to%20book%20a%20free%20trial.";
 
 export function ScrollProgress() {
   const [progress, setProgress] = useState(0);
@@ -193,8 +193,8 @@ export function Footer() {
           <address className="mt-4 space-y-2 text-sm not-italic text-muted-foreground">
             <p>102, Race Course Road, Vadodara, Gujarat 390007</p>
             <p>
-              <a href="tel:+919876543210" className="hover:text-primary">
-                +91 98765 43210
+              <a href="tel:+918160629976" className="hover:text-primary">
+                +91 8160629976
               </a>
             </p>
             <p>
