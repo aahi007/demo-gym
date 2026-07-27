@@ -1,4 +1,4 @@
-import { Star, Users, Award, Dumbbell, HeartHub, Salad, Check } from "lucide-react";
+import { Star, Users, Award, Dumbbell, Heart, Salad, Check } from "lucide-react";
 import { Reveal, Counter, SectionHeading, Section } from "./primitives";
 import { WHATSAPP_URL } from "./chrome";
 import heroImg from "@/assets/hero.jpg";
