@@ -284,10 +284,10 @@ export function Contact() {
             <li className="flex gap-4">
               <Mail className="h-5 w-5 shrink-0 text-primary" aria-hidden="true" />
               <a
-                href="mailto:hello@ironpulsefitness.com"
+                href="mailto:hello@PowerHub.com"
                 className="text-sm text-muted-foreground hover:text-foreground"
               >
-                hello@ironpulsefitness.com
+                hello@PowerHub.com
               </a>
             </li>
             <li className="flex gap-4">
@@ -311,7 +311,7 @@ export function Contact() {
 
           <div className="overflow-hidden rounded-sm border border-border">
             <iframe
-              title="Iron Pulse Fitness location on Google Maps"
+              title="PowerHub Fitness location on Google Maps"
               src="https://www.google.com/maps?q=Race%20Course%20Road%2C%20Vadodara%2C%20Gujarat%20390007&output=embed"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"

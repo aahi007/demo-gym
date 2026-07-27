@@ -77,15 +77,15 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Iron Pulse Fitness — Premium Gym in Vadodara" },
+      { title: "PowerHub Fitness — Premium Gym in Vadodara" },
       {
         name: "description",
         content:
-          "Premium equipment, certified trainers and personalised coaching at Iron Pulse Fitness, Vadodara. Train Hard. Live Strong.",
+          "Premium equipment, certified trainers and personalised coaching at PowerHub Fitness, Vadodara. Train Hard. Live Strong.",
       },
-      { name: "author", content: "Iron Pulse Fitness" },
+      { name: "author", content: "PowerHub Fitness" },
       { name: "theme-color", content: "#0B0B0B" },
-      { property: "og:title", content: "Iron Pulse Fitness" },
+      { property: "og:title", content: "PowerHub Fitness" },
       { property: "og:description", content: "Train Hard. Live Strong." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },

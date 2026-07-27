@@ -9,7 +9,7 @@ export function Hero() {
     <section id="hero" className="relative isolate flex min-h-svh items-center overflow-hidden">
       <img
         src={heroImg}
-        alt="Athlete performing a heavy deadlift at Iron Pulse Fitness"
+        alt="Athlete performing a heavy deadlift at PowerHub Fitness"
         width={1920}
         height={1280}
         fetchPriority="high"
@@ -141,13 +141,13 @@ export function About() {
         <div>
           <SectionHeading
             align="left"
-            eyebrow="About Iron Pulse"
+            eyebrow="About PowerHub"
             title={
               <>
                 A gym built for <span className="text-primary">serious progress</span>
               </>
             }
-            subtitle="Iron Pulse Fitness is a premium fitness centre in Vadodara offering world-class equipment, certified trainers, strength and functional training, personal coaching, nutrition guidance and group classes — everything you need to build strength, improve health and stay consistent for years, not weeks."
+            subtitle="PowerHub Fitness is a premium fitness centre in Vadodara offering world-class equipment, certified trainers, strength and functional training, personal coaching, nutrition guidance and group classes — everything you need to build strength, improve health and stay consistent for years, not weeks."
           />
           <ul className="mt-10 grid gap-6 sm:grid-cols-2">
             {ABOUT_POINTS.map(({ Icon, title, body }, i) => (

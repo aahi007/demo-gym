@@ -132,7 +132,7 @@ export function WhatsAppButton() {
       href={WHATSAPP_URL}
       target="_blank"
       rel="noreferrer"
-      aria-label="Chat with Iron Pulse Fitness on WhatsApp"
+      aria-label="Chat with PowerHub on WhatsApp"
       className="fixed right-5 bottom-5 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-primary shadow-[var(--shadow-ember)] transition-transform duration-300 hover:scale-110"
     >
       <MessageCircle className="h-6 w-6 text-primary-foreground" aria-hidden="true" />
@@ -198,8 +198,8 @@ export function Footer() {
               </a>
             </p>
             <p>
-              <a href="mailto:hello@ironpulsefitness.com" className="hover:text-primary">
-                hello@ironpulsefitness.com
+              <a href="mailto:hello@PowerHub.com" className="hover:text-primary">
+                hello@PowerHub.com
               </a>
             </p>
             <p>Mon–Sat 5:00 AM – 11:00 PM</p>
@@ -208,7 +208,7 @@ export function Footer() {
         </div>
       </div>
       <div className="border-t border-border py-6 text-center text-xs text-muted-foreground">
-        © {new Date().getFullYear()} Iron Pulse Fitness. Fictional brand concept.
+        © {new Date().getFullYear()} PowerHub. Fictional brand concept.
       </div>
     </footer>
   );

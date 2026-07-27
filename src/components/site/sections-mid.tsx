@@ -61,7 +61,7 @@ export function Trainers() {
               <div className="overflow-hidden">
                 <img
                   src={t.img}
-                  alt={`${t.name}, ${t.spec} coach at Iron Pulse Fitness`}
+                  alt={`${t.name}, ${t.spec} coach at PowerHub Fitness`}
                   width={800}
                   height={1000}
                   loading="lazy"
@@ -110,7 +110,7 @@ const STORIES = [
     lost: "11 kg",
     gained: "7 kg lean mass",
     quote:
-      "At 48 I deadlift more than I did at 30. Iron Pulse rebuilt my back health before it ever pushed heavy weight.",
+      "At 48 I deadlift more than I did at 30. PowerHub rebuilt my back health before it ever pushed heavy weight.",
   },
 ];
 
@@ -132,7 +132,7 @@ export function SuccessStories() {
               <div className="relative overflow-hidden">
                 <img
                   src={s.img}
-                  alt={`${s.name} after training at Iron Pulse Fitness`}
+                  alt={`${s.name} after training at PowerHub Fitness`}
                   width={800}
                   height={800}
                   loading="lazy"
@@ -230,7 +230,7 @@ export function Schedule() {
       />
       <Reveal className="mt-16 overflow-x-auto rounded-sm border border-border">
         <table className="w-full min-w-[600px] border-collapse text-left">
-          <caption className="sr-only">Iron Pulse Fitness weekly class schedule</caption>
+          <caption className="sr-only">PowerHub Fitness weekly class schedule</caption>
           <thead>
             <tr className="bg-card">
               <th scope="col" className="p-5 font-display text-xl tracking-wider">
